@@ -22,11 +22,20 @@
 </tbody>
 </table>
 
+## My GitHub stats
+
+<p align="center">
+  <a href="https://github.com/andreaintech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreaintech&show_icons=true&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreaintech&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+  </a>  
+</p>
+
 ## Other Stuff
 
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
 
-[![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=650ceb)](https://badges.strrl.dev)
 
 <!--
 **andreaintech/andreaintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
