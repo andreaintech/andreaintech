@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+    <img width="40%" height="480" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF1cXN3ZGZ2b29jZHJ5YzR1dWxuNGQ0OTV1NDYxbDJxeThydDFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" alt="cover" />
+</div>
+
+<div align="center">
     <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
 </div>
 
