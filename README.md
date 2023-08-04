@@ -15,6 +15,7 @@
 <tr><th scope='row'>Skills</th><td>JavaScript, TypeScript, Python, React Native, Expo, Jest, React Native Testing Library, MobX</td></tr>
 <tr><th scope='row'>Stuff I've worked with</th><td>ReactJS, Flask, MySQL, PostgreSQL, VueJS, Angular 4, AngularJS, Java, Vaadin, Spring Boot, HTML, CSS, JQuery, PHP, Laravel, CodeIgniter, Slim, WordPress, WooCommerce, SAP, Figma</td></tr>
 <tr><th scope='row'>Hobbies</th><td>Dance, Travel, Movies, Series</td></tr>
+<tr><th scope='row'>Languages</th><td>Spanish, English, Portuguese</td></tr>
 </tbody>
 </table>
 <!--
