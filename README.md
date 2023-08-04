@@ -1,3 +1,11 @@
+<div align="center">
+    <img width="40%" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="cover" />
+</div>
+
+<div align="center">
+    <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
+</div>
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Andrea Da Silva 👩🏽‍💻
 
 <table>
