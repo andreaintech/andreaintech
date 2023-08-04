@@ -21,6 +21,13 @@
 <tr><th scope='row'>interests</th><td>AI, Machine Learning, Data Science, UI/UX, Mobile Apps, Web Apps</td></tr>
 </tbody>
 </table>
+
+## Other Stuff
+
+[![Visits Badge](https://badges.strrl.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
+
+[![Visits Badge](https://badges.strrl.dev/visits/${andreaintech}/${andreaintech})](https://badges.strrl.dev)
+
 <!--
 **andreaintech/andreaintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
