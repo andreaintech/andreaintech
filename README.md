@@ -24,7 +24,7 @@
 
 ## Other Stuff
 
-[![Visits Badge](https://badges.strrl.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
 
 [![Visits Badge](https://badges.strrl.dev/visits/${andreaintech}/${andreaintech})](https://badges.strrl.dev)
 
