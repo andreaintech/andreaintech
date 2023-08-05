@@ -114,6 +114,9 @@
   </a>  
 </p>
 
+<br>
+<br>
+
 ## Other Stuff
 
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
