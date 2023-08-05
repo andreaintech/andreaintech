@@ -27,6 +27,9 @@
 </tbody>
 </table>
 
+<br>
+<br>
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/adasilvapdev/)
@@ -37,8 +40,6 @@
 
 ## Things I've work with
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -80,8 +81,6 @@
 
 </td><td valign="top" width="50%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -100,8 +99,6 @@
 
 </table>
 
-<br/>
-<br/>  
 <br/>
 <br/>  
 
