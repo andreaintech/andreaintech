@@ -96,6 +96,8 @@
 <br/>
 <br/>  
 
+## My GitHub stats
+
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=andreaintech&theme=tokyonight_duo&hide_border=true"
 </p>
@@ -103,7 +105,7 @@
 <br/>
 <br/>  
 
-## My GitHub stats
+
 
 <p align="center">
   <a href="https://github.com/andreaintech">
