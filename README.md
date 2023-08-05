@@ -36,7 +36,7 @@
 <br>
 
 ## Things I've work with
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -78,7 +78,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -98,7 +98,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
