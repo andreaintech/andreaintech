@@ -33,7 +33,7 @@
 ## Resume
 [Full Version](https://andreaintech.github.io/resume/)
 <br>
-[React Native Resume](https://andreaintech.github.io/resume/)
+[React Native Resume](https://andreaintech.github.io/resume-react-native/)
 
 <br>
 <br>
