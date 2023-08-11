@@ -225,6 +225,7 @@ Remember, laughter is the best debugging tool! 🤣
 <div align="center">
     <p>Last Updated: August 11, 2023</p>
     <img src="https://img.shields.io/badge/-Stay%20Curious!-blueviolet" alt="Stay Curious">
+    [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
 </div>
 
 <!--
