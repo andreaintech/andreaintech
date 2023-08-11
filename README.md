@@ -129,6 +129,12 @@
 
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
 
+<br>
+
+<div align="center">
+    <p>Last Updated: August 10, 2023</p>
+    <img src="https://img.shields.io/badge/-Stay%20Curious!-blueviolet" alt="Stay Curious">
+</div>
 
 <!--
 **andreaintech/andreaintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
