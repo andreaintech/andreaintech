@@ -132,6 +132,13 @@
 <br>
 
 <div align="center">
+    <img width="50%" 
+        height="480"         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF1cXN3ZGZ2b29jZHJ5YzR1dWxuNGQ0OTV1NDYxbDJxeThydDFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" alt="cover" />
+</div>
+
+<br>
+
+<div align="center">
     <p>Last Updated: August 10, 2023</p>
     <img src="https://img.shields.io/badge/-Stay%20Curious!-blueviolet" alt="Stay Curious">
 </div>
