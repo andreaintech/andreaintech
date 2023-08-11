@@ -132,7 +132,7 @@
 Can you solve the classic FizzBuzz problem? Write a program that prints the numbers from 1 to 100, but for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz". For numbers that are multiples of both 3 and 5, print "FizzBuzz". Have fun!
 
 <details>
-<summary>Click for Solution</summary>
+<summary>Click for Solution in Python</summary>
 
 ```python
 for num in range(1, 101):
@@ -144,6 +144,24 @@ for num in range(1, 101):
         print("Buzz")
     else:
         print(num)
+```
+</details>
+
+<details>
+<summary>Click for Solution in JavaScript</summary>
+
+```javascript
+for (let num = 1; num <= 100; num++) {
+    if (num % 3 === 0 && num % 5 === 0) {
+        console.log('FizzBuzz');
+    } else if (num % 3 === 0) {
+        console.log('Fizz');
+    } else if (num % 5 === 0) {
+        console.log('Buzz');
+    } else {
+        console.log(num);
+    }
+}
 ```
 </details>
 
