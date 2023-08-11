@@ -133,7 +133,10 @@
 
 <div align="center">
     <img width="50%" 
-        height="480"         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF1cXN3ZGZ2b29jZHJ5YzR1dWxuNGQ0OTV1NDYxbDJxeThydDFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" alt="cover" />
+        height="480"
+        src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif"
+        alt="cover"
+    />
 </div>
 
 <br>
