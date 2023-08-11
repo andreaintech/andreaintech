@@ -167,10 +167,8 @@ for (let num = 1; num <= 100; num++) {
 
 <br>
 
-### Book Recommendations:**
+### Book Recommendations
 ```markdown
-## Book Recommendations
-
 - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
 - "You Don't Know JS" series by Kyle Simpson
 - "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" by James Clear
