@@ -176,6 +176,14 @@ for (let num = 1; num <= 100; num++) {
 
 <br>
 
+## Favorite Quotes
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+> "It does not matter how slowly you go as long as you do not stop." - Confucius
+
+<br>
+
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
 
 <br>
