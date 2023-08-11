@@ -167,7 +167,7 @@ for (let num = 1; num <= 100; num++) {
 
 <br>
 
-**#14 - Book Recommendations:**
+### Book Recommendations:**
 ```markdown
 ## Book Recommendations
 
