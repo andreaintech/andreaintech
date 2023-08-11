@@ -208,10 +208,6 @@ Remember, laughter is the best debugging tool! 🤣
 
 <br>
 
-[![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
-
-<br>
-
 <div align="center">
     <img width="50%" 
         height="480"
@@ -227,9 +223,10 @@ Remember, laughter is the best debugging tool! 🤣
     <img src="https://img.shields.io/badge/-Stay%20Curious!-blueviolet" alt="Stay Curious">
 </div>
 
-<p align="center">
-    [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
-</p>
+<br>
+
+[![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
+
 
 <!--
 **andreaintech/andreaintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
