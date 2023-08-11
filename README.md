@@ -195,6 +195,7 @@ for (let num = 1; num <= 100; num++) {
 
 Remember, laughter is the best debugging tool! 🤣
 
+
 <br>
 
 ### Favorite Quotes
