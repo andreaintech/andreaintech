@@ -176,6 +176,27 @@ for (let num = 1; num <= 100; num++) {
 
 <br>
 
+### Code and Laughter: Jokes for Developers
+
+- Why do programmers prefer using the dark mode?
+  Because light attracts bugs!
+
+- Why did the web developer stay at the hotel?
+  Because he lost his keys!
+
+- Why did the developer go to therapy?
+  Because he had too many issues!
+
+- Why do programmers hate nature?
+  It has too many bugs!
+
+- Why was the JavaScript developer sad?
+  Because he didn't know how to "null" his emotions!
+
+Remember, laughter is the best debugging tool! 🤣
+
+<br>
+
 ## Favorite Quotes
 
 > "The only way to do great work is to love what you do." - Steve Jobs
