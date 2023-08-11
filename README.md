@@ -167,6 +167,17 @@ for (let num = 1; num <= 100; num++) {
 
 <br>
 
+**#14 - Book Recommendations:**
+```markdown
+## Book Recommendations
+
+- "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+- "You Don't Know JS" series by Kyle Simpson
+- "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" by James Clear
+```
+
+<br>
+
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
 
 <br>
