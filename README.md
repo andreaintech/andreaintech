@@ -197,7 +197,7 @@ Remember, laughter is the best debugging tool! 🤣
 
 <br>
 
-## Favorite Quotes
+### Favorite Quotes
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
