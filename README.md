@@ -59,7 +59,7 @@ Here are a few featured projects:
 1. [Project 1: TODO App](https://github.com/andreaintech/todo-app-redux-react-native) - A TODO App developed with React Native and Redux Toolkit.
 2. [Project 2: Calculator App](https://github.com/andreaintech/React-Native-Calculator) - A Calculator App developed with React Native.
 
-You can find more projects and detailed descriptions in my [Projects Repository](https://github.com/your-username/your-repo-name), where I've organized them to help you navigate through my coding journey.
+You can find more projects and detailed descriptions in my [Projects Repository]([https://github.com/your-username/your-repo-name](https://github.com/andreaintech/My-Projects-Portfolio), where I've organized them to help you navigate through my coding journey.
 
 Explore the code, dive into the documentation, and feel free to reach out if you have any questions or feedback. Your curiosity and interest mean a lot to me as a developer!
 
