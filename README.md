@@ -56,7 +56,7 @@ Feel free to check out my collection of projects, where I've poured my passion a
 
 Here are a few featured projects:
 
-1. [Project 1](link-to-project-1) - A brief description of what this project is about.
+1. [Project 1: TODO App](https://github.com/andreaintech/todo-app-redux-react-native) - A TODO App developed with React Native and Redux Toolkit.
 2. [Project 2](link-to-project-2) - An overview of the goals and achievements of this project.
 
 You can find more projects and detailed descriptions in my [Projects Repository](https://github.com/your-username/your-repo-name), where I've organized them to help you navigate through my coding journey.
