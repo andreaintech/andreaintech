@@ -59,7 +59,7 @@ Here are a few featured projects:
 1. [Project 1](link-to-project-1) - A brief description of what this project is about.
 2. [Project 2](link-to-project-2) - An overview of the goals and achievements of this project.
 
-You can find more projects and detailed descriptions in my [GitHub repository](https://github.com/your-username/your-repo-name), where I've organized them to help you navigate through my coding journey.
+You can find more projects and detailed descriptions in my [Projects Repository](https://github.com/your-username/your-repo-name), where I've organized them to help you navigate through my coding journey.
 
 Explore the code, dive into the documentation, and feel free to reach out if you have any questions or feedback. Your curiosity and interest mean a lot to me as a developer!
 
