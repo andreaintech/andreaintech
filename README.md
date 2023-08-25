@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## Explore My Projects 🚀
+## Explore my Projects 🚀
 
 Feel free to check out my collection of projects, where I've poured my passion and skills into creating various software solutions. Each project showcases different aspects of my expertise and the technologies I love working with.
 
