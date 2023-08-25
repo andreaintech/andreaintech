@@ -244,3 +244,5 @@ Remember, laughter is the best debugging tool! 🤣
 <br>
 
 [![Visits Badge](https://badges.strrl.dev/visits/andreaintech/andreaintech?style=for-the-badge&color=8f72dd)](https://badges.strrl.dev)
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
