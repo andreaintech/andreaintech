@@ -18,7 +18,7 @@
 <tr><th scope='row'>Nationality</th><td>Brazilian 🇧🇷</td></tr>
 <tr><th scope='row'>Where I'm living</th><td>Venezuela 🇻🇪</td></tr>
 <tr><th scope='row'>College Degree</th><td>Bachelor Degree in Computer Sciences 👩🏽‍🎓</td></tr>
-<tr><th scope='row'>Occupation</th><td>Software Engineer | React Native Developer 👩🏽‍💻</td></tr>
+<tr><th scope='row'>Occupation</th><td>Sr. Software Engineer | React Native Developer 👩🏽‍💻</td></tr>
 <tr><th scope='row'>Skills</th><td>JavaScript, TypeScript, Python, React Native, Expo, Jest, React Native Testing Library, MobX 🥷🏽</td></tr>
 <tr><th scope='row'>Stuff I've worked with</th><td>ReactJS, Flask, Firebase, MySQL, PostgreSQL, VueJS, Angular 4, AngularJS, Java, Vaadin, Spring Boot, HTML, CSS, JQuery, PHP, Laravel, CodeIgniter, Slim, WordPress, WooCommerce, SAP, Figma 🏋🏽</td></tr>
 <tr><th scope='row'>Languages</th><td>Spanish 🇻🇪, English 🇺🇸, Portuguese 🇧🇷</td></tr>
